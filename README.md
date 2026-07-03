@@ -16,7 +16,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Contacto</h2>
+<h2 align="left">📬 Contacto</h2>
 
 ###
 
@@ -31,18 +31,25 @@
 
 ###
 
-<h2 data-importer="text" align="left">Estadísticas</h2>
+<h2 align="left">📊 Estadísticas</h2>
 
-###
+<div align="center">
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=mariaballesteer&locale=es&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaballesteer&layout=compact&theme=tokyonight&locale=es&hide_border=false" height="150" alt="languages graph" />
+<img
+  src="https://ghstats.dev/api/card?username=mariaballesteer&theme=tokyonight"
+  height="420"
+/>
+
+<img
+  src="https://streak-stats.demolab.com?user=mariaballesteer&theme=tokyonight"
+  height="170"
+/>
+
 </div>
 
 ###
 
-<h2 data-importer="text" align="left">Lenguajes y tecnologías</h2>
+<h2 align="left">💻 Lenguajes y tecnologías</h2>
 
 ###
 
